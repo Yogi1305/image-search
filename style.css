@@ -42,8 +42,10 @@ h1{
 }
 #search{
     margin-top: 20px;
-    padding: 8px;
-    border-radius: 5px;
+    padding: 10px;
+   
+    width: 25rem;
+    border-radius: 22px;
 }
 #searchbtn{
     width: 90px;
